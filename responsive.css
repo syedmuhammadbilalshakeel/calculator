@@ -1,0 +1,47 @@
+@media (min-width: 320px) and (max-width: 480px) {
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .overall {
+        height: 666px;
+    }
+
+    .section-1 {
+        width: 345px;
+        margin-left: -345px;
+    }
+
+    .input-1 input {
+        width: 300px;
+        margin-left: 20px;
+        border: 2px solid black;
+    }
+
+    .button-colon button {
+        margin-left: 20px;
+        width: 57px;
+    }
+
+    .button-colons button {
+        margin-left: 20px;
+        width: 57px;
+    }
+
+    .button-colonse button {
+        margin-left: 20px;
+        width: 57px;
+    }
+
+    .button-colonsen button {
+        margin-left: 20px;
+        width: 57px;
+    }
+}
